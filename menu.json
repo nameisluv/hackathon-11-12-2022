@@ -1,0 +1,330 @@
+[
+
+    {	
+        "name":"Smoked Chilly Paneer",
+        "type":"veg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/f73/63ae1c6e8b2cfff4b2859d061bc41f73.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":150
+    },
+    
+    {	
+        "name":"Smoked Golden Baby Corn",
+        "type":"veg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/032/78590d630d1ef2b27f01be6e5b865032.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":150
+    },
+    
+    {	
+        "name":"Smoked Chicken Leg Roast",
+        "type":"nveg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/36b/c63736304e7ec6a4551498bb473b736b.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":135
+    },
+    
+    {
+        "name":"Smoked Lemon Chicken",
+        "type":"nveg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/fe7/5ee5ce65c300c9756435565326aadfe7.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":140
+    },
+    
+    {
+        "name":"Smoked Chicken Rayalaseema",
+        "type":"nveg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/551/e632037a8701e8ef569d3a3130ccb551.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":100
+    },
+    
+    {
+        "name":"Smoked Mutton Kheema Fry",
+        "type":"nveg",
+        "category":"starters",
+        "image":"https://b.zmtcdn.com/data/dish_photos/6c0/b389e32d3f4e2f699c89483f487216c0.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":135
+    },
+    
+    {
+        "name":"Master Chef Pasta",
+        "type":"veg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/0b8/b00b6f56147e6d3b80556d0e0862b0b8.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":240
+    },
+    
+    {
+        "name":"Spinach and Ricotta Ravioli",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/7a4/fb0ffe6c81a6116ff992096517d4c7a4.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":190
+    },
+    
+    {
+        "name":"Chilli Crusted Cobbler and Turmeric Risotto",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/2cd/8612a8ad721b1d8d977c8c1c1426e2cd.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":250
+    },
+    
+    {
+        "name":"Chermoula Spiced Grilled Chicken",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/9ff/095cc92029697402334232ade6daa9ff.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":200
+    },
+    
+    {	
+        "name":"Peri Peri Rubbed Grilled Chicken",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/63d/344fcf7493f428fbc4f872928b1b163d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":180
+    },
+    
+    {
+        "name":"Bacon Wrapped Chicken",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/182/9481be0ed38e621cd3e478c0cfc5f182.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":190
+    },
+    
+    {	
+        "name":"Half A Roast Rosemary Chicken with Wild Mushroom AOP",
+        "type":"nveg",
+        "category":"main_course",
+        "image":"https://b.zmtcdn.com/data/dish_photos/f6e/3b7932f0f8ff864d73fc3c0adbd3af6e.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":200
+    },
+    
+    {
+        "name":"Moroccan Mint Lime Juice",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/f04/e18cf1ddbb5d8c5d60f5054b84ba8f04.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":125
+    },
+    
+    {
+        "name":"Pineapple Juice",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/99d/d52ac7c5d22285182e6c87eaf4c7699d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":110
+    },
+    {
+        "name":"Ginger Lime Juice",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/a8c/381134cbd448adc2d1e15d7773e6ea8c.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":120
+    },
+    
+    {
+        "name":"Fresh Lime Soda",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/f82/029fd9775a17456208b321dada033f82.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":100
+    },
+    
+    {
+        "name":"Fresh Lime Juice",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/0ef/e6c8ae4d5d6414141f8b72827af4f0ef.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":110
+    },
+    
+    {
+        "name":"Blue Lime Juice",
+        "type":"veg",
+        "category":"drinks",
+        "image":"https://b.zmtcdn.com/data/dish_photos/764/513fd383125255851457917483b91764.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":130
+    },
+    
+    {
+        "name":"Falooda",
+        "type":"nveg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/e3f/3fcde98d9dadd0d3e137caa972069e3f.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":145
+    },
+    
+    {
+        "name":"Royal Style Falooda",
+        "type":"nveg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/b4a/3df4844460d177f8eb0768f818f90b4a.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":222
+    },
+    
+    {
+        "name":"Death By Chocolate Ice Cream",
+        "type":"nveg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/dea/023fec8c5cfb758b8713349e2a9dcdea.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":150
+    },
+    
+    {
+        "name":"Fruit N Cream",
+        "type":"veg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/05f/df7a12b71531a1c3a83bf24b8651105f.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":140
+    },
+    
+    {
+        "name":"Water Melon Sundae",
+        "type":"veg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/9c2/ac641d0963e72ffd980c0da8e5adb9c2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":190
+    },
+    
+    {
+        "name":"Royal All In One Ice Cream",
+        "type":"veg",
+        "category":"deserts",
+        "image":"https://b.zmtcdn.com/data/dish_photos/15b/af584d18c5707f5e5c562fab04fb915b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":230
+    },
+    
+    {
+        "name":"Veg Fried Rice & Gobi Manchurian",
+        "type":"veg",
+        "category":"combo",
+        "image":"https://b.zmtcdn.com/data/dish_photos/b95/bffa32a74a9c20e1a5831edc57cd5b95.png?fit=around|130:130&crop=130:130;*,*",
+        "price":240
+    },
+    
+    {
+        "name":"Ghee Rice With Dal Fry",
+        "type":"veg",
+        "category":"combo",
+        "image":"https://b.zmtcdn.com/data/dish_photos/5fc/dff6a95626a60b75c7de72055f0b15fc.png?fit=around|130:130&crop=130:130;*,*",
+        "price":270
+    },
+    
+    {
+        "name":"2 Coin Parotta, Hyderabadi Boneless Chicken Gravy & Popcorn Kebab",
+        "type":"nveg",
+        "category":"combo",
+        "image":"https://b.zmtcdn.com/data/dish_photos/4a7/d6c48cf7132258a7cd6a1257bf1044a7.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":260
+    },
+    
+    {
+        "name":"Ghee Rice Butter Chicken Combo & Chicken Manchurian Dry",
+        "type":"nveg",
+        "category":"combo",
+        "image":"https://b.zmtcdn.com/data/dish_photos/3c1/7394ef6f5086c3b3c4b17130995d33c1.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":290
+    },
+    
+    {
+        "name":"2 Naan, Hyderabadi Boneless Chicken Gravy & Popcorn Kebab",
+        "type":"nveg",
+        "category":"combo",
+        "image":"https://b.zmtcdn.com/data/dish_photos/131/b9a754d38a686710878f45ac89151131.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":340
+    },
+    
+    {
+        "name":"Creamy Tomato Pasta Pizza - Veg",
+        "type":"veg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/d6d/8e598eaf8cb3a0ec1a0dc974b1358d6d.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":200
+    },
+    
+    {
+        "name":"Moroccan Spice Pasta Pizza - Veg",
+        "type":"veg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/7bf/5c4d9929d3455665e9410609eea297bf.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":210
+    },
+    
+    {
+        "name":"The 5 Chicken Feast Pizza",
+        "type":"nveg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/4e2/f3b7422765e4b85e212099c3e4ded4e2.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":250
+    },
+    
+    {
+        "name":"Chicken Maximus",
+        "type":"nveg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/152/e90f19ee75c9b1c548ebba9a082be152.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":230
+    },
+    
+    {
+        "name":"Indo Fusion Chicken Pizza",
+        "type":"nveg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/b4b/075e3ca67da88b2883c41b44facbab4b.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":210
+    },
+    
+    {
+        "name":"Spiced Double Chicken",
+        "type":"nveg",
+        "category":"pizza",
+        "image":"https://b.zmtcdn.com/data/dish_photos/129/f59f38cb1800193ccf196f1f9646b129.jpg?output-format=webp&fit=around|130:130&crop=130:130;*,*",
+        "price":200
+    },
+    
+    {
+        "name":"Peri Peri Paneer Burger",
+        "type":"veg",
+        "category":"burger",
+        "image":"https://b.zmtcdn.com/data/dish_photos/32c/7dc2dd4f76f076e7dfd5d4c66b67132c.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":200
+    },
+
+    {
+        "name":"Veggie Supreme Burger",
+        "type":"veg",
+        "category":"burger",
+        "image":"https://b.zmtcdn.com/data/dish_photos/56a/b8d6bae2fb9282d08582e1714f9b456a.png?fit=around|130:130&crop=130:130;*,*",
+        "price":180
+    },
+    
+    {
+        "name":"Grilled Spicy Lamb Burger",
+        "type":"nveg",
+        "category":"burger",
+        "image":"https://b.zmtcdn.com/data/dish_photos/ea2/3b404811a3baa79ad3efe2197dce2ea2.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":280
+    },
+    
+    {
+        "name":"Chilli Cheese Chicken Fillet Burger",
+        "type":"nveg",
+        "category":"burger",
+        "image":"https://b.zmtcdn.com/data/dish_photos/e08/f0478f524ef3003e2e83aed436cffe08.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":240
+    },
+    
+    {
+        "name":"Jumbo Royale Chicken Burger",
+        "type":"nveg",
+        "category":"burger",
+        "image":"https://b.zmtcdn.com/data/dish_photos/75d/e469c8f61760b084eba004d85729275d.jpg?fit=around|130:130&crop=130:130;*,*",
+        "price":310
+    }
+
+    ]
