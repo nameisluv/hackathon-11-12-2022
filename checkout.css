@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +13,8 @@ body {
     background-size: cover; */
     line-height: 1rem;
     font-size: 14px;
-    padding: 10px
+    padding: 10px;
+    background-color:#E6D1F2!important;
 }
 
 .container {
@@ -118,7 +119,7 @@ input:focus {
 }
 .pb-2{
     font-size: 40px;
-    color: aquamarine;
+    color: rgb(0, 0, 0);
 }
 .fis
 {
@@ -126,3 +127,35 @@ input:focus {
     margin-left: 20px;
 }
 
+.radi{
+    border-radius: 10px;
+}
+
+.fbi{
+    font-family: 'Secular One', sans-serif!important;
+}
+
+.payb{
+
+        width: 100%;
+        border: none;
+        border-radius: 8px;
+        padding: 15px;
+        /* padding-left: 215px; */
+        justify-content:center;
+        font-family: 'Rubik', sans-serif;
+        cursor: pointer;
+        text-transform: uppercase;
+        background: #e8e9ec;
+        color: #777;
+        /* border-bottom-left-radius: 4px;
+        border-bottom-right-radius: ; */ 
+        letter-spacing: 0.2px;
+        outline: 0;
+        -webkit-transition: all .3s;
+        transition: all .3s;
+      }
+
+.payd:hover{
+    color: #9807ec;
+}
